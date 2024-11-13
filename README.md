@@ -10,11 +10,11 @@ Before you begin, ensure you have the following libraries installed:
 
 Input images:
 
-- `iris1.tif`: ![Input_images/iris1_output.tif](Input_images/iris1.tif)
+- `iris1.tif`: ![Input](https://github.com/user-attachments/assets/7b37899a-7dc7-4024-bfa5-ea4a60ea3ac4)
 
 Output image:
 
-- `iris1_output.tif`: ![Input_images/iris1_output.tif](Output_images/iris1_output.tif)
+- `iris1_output.tif`: ![Output](https://github.com/user-attachments/assets/b8552158-2321-4886-9a9d-0f89d0b37d50)
 
 ## License
 
@@ -31,3 +31,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ---
 
 Feel free to modify and expand upon this script to suit your specific needs.
+
