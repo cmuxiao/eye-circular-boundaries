@@ -10,11 +10,11 @@ Before you begin, ensure you have the following libraries installed:
 
 Input images:
 
-- `iris1.tif`: ![iris1_output.tif](Input_images/iris1.tif)
+- `iris1.tif`: ![Input_images/iris1_output.tif](Input_images/iris1.tif)
 
 Output image:
 
-- `iris1_output.tif`: ![iris1_output.tif](Output_images/iris1_output.tif)
+- `iris1_output.tif`: ![Input_images/iris1_output.tif](Output_images/iris1_output.tif)
 
 ## License
 
